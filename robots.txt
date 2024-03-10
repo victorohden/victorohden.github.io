@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://victorohden.github.io/blank/sitemap.xml
+Sitemap: https://victorohden.github.io//sitemap.xml
