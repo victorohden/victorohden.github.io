@@ -4,9 +4,9 @@
     "label": "Research",
     "image": "",
     "email": "victorrp@umich.edu",
-    "phone": "(912) 123-4567",
+    "phone": "(734) 764-6453",
     "url": "https://victorohden.github.io/",
-    "summary": "A Paraguaian-born remote sensing Ph.D and Agricultural Engeenring, paisonate for Remote Sensing applied in agriculture",
+    "summary": "Ph.D. in remote sensing and agricultural engineering, deeply passionate about utilizing remote sensing techniques for agricultural applications",
     "location": {
       "address": "440 Church Street",
       "postalCode": "MI 48109",
@@ -26,11 +26,11 @@
     {
       "name": "University of Michigan School for Environment and Sustainability",
       "position": "Postdoctoral Fellow",
-      "url": "https://example.com",
+      "url": "https://seas.umich.edu/",
       "startDate": "2022-10-01",
       "endDate": "2024-12-31",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Research Agriculture - Pheonology and Crop classification",
+      "highlights": ["Agriculture", "Remote Sensing"]
     }
   ],
   "volunteer": [
