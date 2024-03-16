@@ -46,15 +46,37 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "National Institute for Space Research, Brazil",
+      "location": "São José dos Campos, Brazil",
+      "url": "http://www.inpe.br/posgraduacao/ser/en/index.php",
+      "area": "Geoscience",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2017-02-20",
+      "endDate": "2021-08-18",
+      "score": "",
+      "courses": ["Remote Sensing"]
+    },
+    {
+      "institution": "Western Paraná State University (Unioeste), Brazil",
+      "location": "Cascvel, Brazil",
+      "url": "https://www5.unioeste.br/portalunioeste/pos/pgeagri/traducao/agricultural-engineering",
+      "area": "Agricultural",
+      "studyType": "Master",
+      "startDate": "2015-02-20",
+      "endDate": "2017-02-09",
+      "score": "",
+      "courses": ["Agricultural Engineering"]
+    },
+    {
+      "institution": "Western Paraná State University (Unioeste), Brazil",
+      "location": "Cascvel, Brazil",
+      "url": "https://www.unioeste.br/portal/home-ingles",
+      "area": "Agricultural",
+      "studyType": "Bachelor",
+      "startDate": "2010-02-20",
+      "endDate": "2014-12-09",
+      "score": "8.5",
+      "courses": ["Agricultural Engineering"]
     }
   ],
   "awards": [
