@@ -50,8 +50,8 @@
       "location": "São José dos Campos, Brazil",
       "url": "http://www.inpe.br/posgraduacao/ser/en/index.php",
       "area": "Geoscience",
-      "studyType": "PhD",
-      "startDate": "2017-02-20",
+      "studyType":"PhD",
+      "startDate":"2017-02-20",
       "endDate": "2021-08-18",
       "score": "",
       "courses": ["Remote Sensing"]
@@ -172,7 +172,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -180,19 +180,23 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Remote Sensing",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Remote Sensing",
+        "Agriculture",
+        "SAR data",
+        "Geocience",
+        "Programming"
       ]
     }
   ],
