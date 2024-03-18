@@ -17,10 +17,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 Welcome to my page. I am Dr. Victor Prudente.
 
 Ph.D. in Remote Sensing from the National Institute for Space Research, with a Master's and Bachelor's degree in Agricultural Engineering from the Western Paraná State University (Unioeste).
 
 **This page is under construction**
-
-

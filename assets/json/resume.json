@@ -50,8 +50,8 @@
       "location": "S.J. dos Campos, Brazil",
       "url": "http://www.inpe.br/posgraduacao/ser/en/index.php",
       "area": "Geoscience",
-      "studyType":"PhD",
-      "startDate":"2017-02-20",
+      "studyType": "PhD",
+      "startDate": "2017-02-20",
       "endDate": "2021-08-18",
       "score": "",
       "courses": ["Remote Sensing"]
@@ -191,13 +191,7 @@
     {
       "name": "Remote Sensing",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Remote Sensing",
-        "Agriculture",
-        "SAR data",
-        "Geocience",
-        "Programming"
-      ]
+      "keywords": ["Remote Sensing","Agriculture","SAR data","Geocience","Programming"]
     }
   ],
   "references": [
