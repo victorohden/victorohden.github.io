@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intership awarded
-date: 2019-10-2019 16:36:00-0400
+date: 2019-10-15 16:36:00-0400
 inline: false
 related_posts: false
 ---
